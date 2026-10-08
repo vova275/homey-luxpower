@@ -1,0 +1,9 @@
+{
+  "name": "com.luxpower.homey",
+  "version": "0.1.0",
+  "description": "LuxPower inverter support for Homey Pro (local LXP protocol over TCP)",
+  "main": "app.js",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=22" }
+}
